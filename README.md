@@ -5,3 +5,4 @@ This project for testing purpose only
 
 - [x] Add style for table
 - [ ] Add new users emails
+- [ ] New branch edit
